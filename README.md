@@ -1,11 +1,11 @@
-About r-bedr
-============
+About r-bedr-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bedr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=bedr
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bedr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Genomic regions processing using open-source command line tools such as 'BEDTools', 'BEDOPS' and 'Tabix'.  These tools offer scalable and efficient utilities to perform genome arithmetic e.g indexing, formatting and merging. bedr API enhances access to these tools as well as offers additional utilities for genomic regions processing.
 
